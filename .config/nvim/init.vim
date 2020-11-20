@@ -5,10 +5,7 @@ Plug 'sheerun/vim-polyglot'
 Plug 'junegunn/fzf', { 'dir': '~/.fzf', 'do': './install --all' }
 Plug 'junegunn/fzf.vim'
 Plug 'mileszs/ack.vim'
-Plug 'tpope/vim-fugitive'
-Plug 'tpope/vim-commentary'
-Plug 'mattn/emmet-vim'
-Plug 'will133/vim-dirdiff'
+Plug 'preservim/nerdtree'
 
 call plug#end()
 
