@@ -1,0 +1,2 @@
+--ignore-directory=is:target
+--ignore-file=is:tags
