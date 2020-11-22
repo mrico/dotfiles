@@ -21,6 +21,7 @@ colorscheme onedark
 tnoremap <esc> <c-\><c-n>
 nnoremap <f2> :Files<cr>
 nnoremap <F3> g]
+nnoremap <C-e> :NERDTreeToggle<CR> 
 nnoremap <f12> :!ctags -R -f tags .<cr>
 
 
